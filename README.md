@@ -1,6 +1,6 @@
 Ola eu sou a Isabelly
 
-- Cursando técnico em desenvolvimentos de sistemas
-- Estudando JavaScript e React Native
+- Cursando Engenharia de Software
+- Estudando Python e SQL
 - E-mail: isabelly.comandrade@gmail.com
   
